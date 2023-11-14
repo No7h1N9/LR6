@@ -7,7 +7,7 @@
 2 Сделана копия (Fork)
 
 
-!(3.jpg)
+!([3.jpg](https://github.com/No7h1N9/LR6/blob/master/3.jpg))
 
 3 Настройка клиента git
 
