@@ -16,47 +16,47 @@ git config --global user.name "4216 Kostiunin A. O."
 Изменен email.
 git config --global user.email Levaanoga631@gmail.com
 
-![Локальное изображение](images/1.jpg)
+![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/1.jpg)
 
 
 4 Клонирование репозитория
 
 git clone No7h1N9/LR6: Лабораторная работа №6 (github.com)
 
-![Локальное изображение](images/2.jpg)
+![4 скрин](https://github.com/No7h1N9/LR6/blob/master/2.jpg)
 
 
 5 Добавлен файл через GitHub, подтянуты изменения в локальный репозиторий Добавлен файл через GitHub.
 
 
 
-![Локальное изображение](images/8.jpg)
+![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/8.png)
 
 
 Подтянуты изменения в локальный репозиторий.
 
 git pull
 
-![Локальное изображение](images/4.jpg)
+![5 скрин](https://github.com/No7h1N9/LR6/blob/master/4.jpg)
 
 6 История операций для каждой из веток Для master
 
 git log --all --graph --oneline
 
-![Локальное изображение](images/5.jpg)
+![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/5.jpg)
 
 
 7 Последние изменения
 
 git diff
 
-![Локальное изображение](images/6.jpg)
+![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/6.jpg)
 
 8 Выполнено слияние в ветку master, конфликт решен Слияние веток.
 
 Конфликт решён с помощью текстового редактора
 
-![Локальное изображение](images/9.jpg)
+![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/9.png)
 
 git merge branch1
 
@@ -80,16 +80,17 @@ git push origin --delete branch1
 git branch отчет
 git checkout отчет
 
-![Локальное изображение](images/11.jpg)
 
 файл README.md добавлен в ветку отчёт
 
 touch README.md
 
-![Локальное изображение](images/10.jpg)
+!Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/10.png)
 
 11 Получена история операций в форматированном виде
 
-![Локальное изображение](images/7.jpg)
+![sss](https://github.com/No7h1N9/LR6/blob/master/7.jpg)
 
 12 Изменения загружены на гит 
+
+![asd](https://github.com/No7h1N9/LR6/blob/master/11.png)
