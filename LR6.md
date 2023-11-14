@@ -16,47 +16,47 @@ git config --global user.name "4216 Kostiunin A. O."
 Изменен email.
 git config --global user.email Levaanoga631@gmail.com
 
-![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/1.jpg)
+![2](https://github.com/No7h1N9/LR6/blob/master/1.jpg)
 
 
 4 Клонирование репозитория
 
 git clone No7h1N9/LR6: Лабораторная работа №6 (github.com)
 
-![4 скрин](https://github.com/No7h1N9/LR6/blob/master/2.jpg)
+![3](https://github.com/No7h1N9/LR6/blob/master/2.jpg)
 
 
 5 Добавлен файл через GitHub, подтянуты изменения в локальный репозиторий Добавлен файл через GitHub.
 
 
 
-![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/8.png)
+![4](https://github.com/No7h1N9/LR6/blob/master/8.png)
 
 
 Подтянуты изменения в локальный репозиторий.
 
 git pull
 
-![5 скрин](https://github.com/No7h1N9/LR6/blob/master/4.jpg)
+![5](https://github.com/No7h1N9/LR6/blob/master/4.jpg)
 
 6 История операций для каждой из веток Для master
 
 git log --all --graph --oneline
 
-![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/5.jpg)
+![6](https://github.com/No7h1N9/LR6/blob/master/5.jpg)
 
 
 7 Последние изменения
 
 git diff
 
-![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/6.jpg)
+![7](https://github.com/No7h1N9/LR6/blob/master/6.jpg)
 
 8 Выполнено слияние в ветку master, конфликт решен Слияние веток.
 
 Конфликт решён с помощью текстового редактора
 
-![Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/9.png)
+![8](https://github.com/No7h1N9/LR6/blob/master/9.png)
 
 git merge branch1
 
@@ -85,12 +85,12 @@ git checkout отчет
 
 touch README.md
 
-!Локальное изображение](https://github.com/No7h1N9/LR6/blob/master/10.png)
+![9](https://github.com/No7h1N9/LR6/blob/master/10.png)
 
 11 Получена история операций в форматированном виде
 
-![sss](https://github.com/No7h1N9/LR6/blob/master/7.jpg)
+![10](https://github.com/No7h1N9/LR6/blob/master/7.jpg)
 
 12 Изменения загружены на гит 
 
-![asd](https://github.com/No7h1N9/LR6/blob/master/11.png)
+![11](https://github.com/No7h1N9/LR6/blob/master/11.png)
