@@ -6,8 +6,7 @@
 
 2 Сделана копия (Fork)
 
-
-!(https://github.com/No7h1N9/LR6/blob/master/3.jpg)
+![1 скрин](https://github.com/No7h1N9/LR6/blob/master/3.jpg)
 
 3 Настройка клиента git
 
